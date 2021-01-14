@@ -31,3 +31,12 @@ Description:
 * MonthlyCharges: The amount charged to the customer monthly
 * TotalCharges: The total amount charged to the customer
 * Churn: Whether the customer churned or not (Yes, No)
+
+To extract actionable insights from the dataset. I listed all the questions that came to mind below after assessing the dataset, and I tried to investigate all of them to find the insights:
+
+1. Does the demographic feature (gender, Senior Citizen, Partners, Dependents) have influence on the customers to churn?
+2. Does the customer who churn using all of the services that telco gives?
+3. For two groups of those customers who churn and not, how long did they usually stay in the service? and what was their average LTV(Life Time Value)?
+4. Does expensive charges makes customers churn?
+
+In order to know the answer, please check the notebook!
